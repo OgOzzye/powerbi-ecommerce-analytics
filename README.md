@@ -16,7 +16,7 @@ The goal of this project is to demonstrate skills in:
 
 *(Screenshot will be added once the dashboard is finalized)*
 
-![Dashboard Screenshot](dashboard_preview.png)
+![Dashboard Screenshot](dashboard_preview.jpeg)
 
 ---
 
