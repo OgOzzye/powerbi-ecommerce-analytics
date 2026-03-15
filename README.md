@@ -51,9 +51,7 @@ The dataset contains information about:
 
 The dashboard uses a **star schema data model**.
 
-*(Data model screenshot will be added)*
-
-![Data Model](data_model.png)
+![Data Model](data_model.jpeg)
 
 Fact tables:
 
