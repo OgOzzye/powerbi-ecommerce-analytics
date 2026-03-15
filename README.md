@@ -1,6 +1,6 @@
 # Power BI E-Commerce Analytics Dashboard
 
-This project is an interactive Power BI dashboard built using the **Brazilian E-Commerce Public Dataset by Olist**.
+This project is an interactive **Power BI dashboard** built using the **Brazilian E-Commerce Public Dataset by Olist**.
 
 The goal of this project is to demonstrate skills in:
 
@@ -12,7 +12,23 @@ The goal of this project is to demonstrate skills in:
 
 ---
 
-## Dataset
+# Dashboard Preview
+
+*(Screenshot will be added once the dashboard is finalized)*
+
+![Dashboard Screenshot](dashboard_preview.png)
+
+---
+
+# Download Dashboard
+
+You can download the Power BI dashboard here:
+
+[Download PBIX File](https://drive.google.com/file/d/1lEo9NwjclUkJgaNGT3LU4JovEKXcvLmK/view?usp=sharing)
+
+---
+
+# Dataset
 
 Brazilian E-Commerce Public Dataset by Olist  
 Source: Kaggle  
@@ -31,9 +47,13 @@ The dataset contains information about:
 
 ---
 
-## Data Model
+# Data Model
 
 The dashboard uses a **star schema data model**.
+
+*(Data model screenshot will be added)*
+
+![Data Model](data_model.png)
 
 Fact tables:
 
@@ -54,7 +74,7 @@ This structure allows efficient filtering and aggregation across the model.
 
 ---
 
-## Key Metrics
+# Key Metrics
 
 The dashboard includes the following business KPIs:
 
@@ -67,26 +87,26 @@ The dashboard includes the following business KPIs:
 
 ---
 
-## Dashboard Features
+# Dashboard Features
 
-### Revenue Performance
+## Revenue Performance
 
 - Revenue by Month
 - Revenue trends over time
 
-### Product Performance
+## Product Performance
 
 - Revenue by Product Category
 - Top / Flop category filtering
 
-### Customer Insights
+## Customer Insights
 
 - Revenue by Customer State
 - Geographic distribution of sales
 
 ---
 
-## Tools Used
+# Tools Used
 
 - Power BI
 - DAX
