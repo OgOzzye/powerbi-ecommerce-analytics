@@ -16,7 +16,7 @@ The goal of this project is to demonstrate skills in:
 
 *(Screenshot will be added once the dashboard is finalized)*
 
-![Dashboard Screenshot](dashboard_preview.jpeg)
+![Dashboard Screenshot](Dashboard.jpeg)
 
 ---
 
@@ -51,7 +51,7 @@ The dataset contains information about:
 
 The dashboard uses a **star schema data model**.
 
-![Data Model](data_model.jpeg)
+![Data Model](Data.jpeg)
 
 Fact tables:
 
