@@ -1,3 +1,5 @@
+Work in Progress 
+
 # Power BI E-Commerce Analytics Dashboard
 
 This project is an interactive **Power BI dashboard** built using the **Brazilian E-Commerce Public Dataset by Olist**.
